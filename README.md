@@ -1,6 +1,7 @@
 # Firstproject
 This is my first try at GITHub during the Software capentary workshop
 I think I am kind of liking it. 
+Be honest with yourself and then add up all that you can
 
 ## Usage
 Description.
