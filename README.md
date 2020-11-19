@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # The Great software
+=======
+# everything
+>>>>>>> 653a9133f3eba2e189c18133aeabfa45f1abb245
 # Firstproject
 This is my first try at GITHub during the Software capentary workshop
 I think I am kind of liking it. 
